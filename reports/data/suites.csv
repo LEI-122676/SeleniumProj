@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","4888","search()","","2025-11-21","passed","2025-11-21","","iscteiul.ista.semana5.MainPageTest","iscteiul.ista.semana5.MainPageTest","search"
+"","1555","navigationToAllTools()","","2025-11-21","passed","2025-11-21","","iscteiul.ista.semana5.MainPageTest","iscteiul.ista.semana5.MainPageTest","navigationToAllTools"
+"","10941","AdicionarNovoLivro()","","2025-11-26","passed","2025-11-26","","bookstore.tests.BookstoreAddProductTest","bookstore.tests.BookstoreAddProductTest","AdicionarNovoLivro"
+"","763","toolsMenu()","","2025-11-21","passed","2025-11-21","","iscteiul.ista.semana5.MainPageTest","iscteiul.ista.semana5.MainPageTest","toolsMenu"
