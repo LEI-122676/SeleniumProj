@@ -14,9 +14,14 @@
         <maven.compiler.target>25</maven.compiler.target>
         <maven.compiler.source>25</maven.compiler.source>
         <junit.version>5.11.3</junit.version>
+        <selenium.version>4.25.0</selenium.version>
     </properties>
 
     <dependencies>
+        <!-- CDP DevTools: O aviso sobre CDP v142 é apenas informativo e não impede os testes -->
+        <!-- Para resolver completamente, seria necessário downgrade do Chrome ou upgrade do Selenium -->
+        <!-- Alternativa: adicionar versão mais recente disponível quando lançada -->
+        
         <dependency>
             <groupId>org.seleniumhq.selenium</groupId>
             <artifactId>selenium-java</artifactId>
