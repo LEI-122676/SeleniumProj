@@ -1,4 +1,6 @@
 #Vaadin Copilot Integration Runtime Properties
+#Fri Nov 28 21:46:32 WET 2025
+endpoint=http\://127.0.0.1\:63342/api/copilot-3f8dc85c-2e21-4f70-97ec-86ad20800f9a
 #Fri Nov 28 16:35:42 WET 2025
 endpoint=http\://127.0.0.1\:63342/api/copilot-24e7b977-923f-4746-8789-42e02cc8f73c
 #Fri Nov 28 16:35:41 WET 2025
