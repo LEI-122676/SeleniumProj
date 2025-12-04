@@ -1,4 +1,4 @@
-package testsuit_form.tests;
+package testsuit_4.tests;
 
 import com.codeborne.selenide.Configuration;
 
@@ -6,7 +6,7 @@ import org.junit.jupiter.api.BeforeEach;
 
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
-import testsuit_form.pages.FormPage;
+import testsuit_4.pages.FormPage;
 
 import static com.codeborne.selenide.Condition.*;
 import static com.codeborne.selenide.Selenide.*;
