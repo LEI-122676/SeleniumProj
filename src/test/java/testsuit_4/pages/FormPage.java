@@ -1,4 +1,4 @@
-package testsuit_form.pages;
+package testsuit_4.pages;
 
 import com.codeborne.selenide.Selenide;
 import com.codeborne.selenide.SelenideElement;
